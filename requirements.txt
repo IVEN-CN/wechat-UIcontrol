@@ -1,0 +1,7 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+
+opencv-python>=4.1.1
+pytesseract>=0.3.10
+PyAutoGUI>=0.9.54
